@@ -2,3 +2,5 @@
 
 Staff Software Engineer at [Skydio](https://www.skydio.com).
 
+
+![](tenor.gif)
